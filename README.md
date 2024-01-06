@@ -1,1 +1,1 @@
-# PlayWright-automation
+# npx playwright test
